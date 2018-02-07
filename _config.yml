@@ -4,5 +4,5 @@ description: Github Pages default theme with pagination
 repository: DirtyF/gh-pages-test
 
 # Pagination
-paginate: 1
+paginate: 2
 paginate_path: "/page/:num/"
